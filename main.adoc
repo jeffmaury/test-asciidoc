@@ -1,0 +1,7 @@
+Using include
+
+include::sub.adoc[]
+
+Using another markup
+
+<<sub.adoc, sub>>
