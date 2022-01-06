@@ -2,7 +2,7 @@ Using include
 
 include::sub.adoc[]
 
-```
+```asciidoc
 include::sub.adoc[]
 ```
 
