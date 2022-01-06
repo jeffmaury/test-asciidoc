@@ -2,6 +2,10 @@ Using include
 
 include::sub.adoc[]
 
+```
+include::sub.adoc[]
+```
+
 Using another markup
 
 <<sub.adoc, sub>>
